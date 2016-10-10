@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outFile": "js/main.js",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "files": [
+        "ts/application.ts",
+        "ts/company.ts",
+        "ts/main.ts",
+        "ts/IRender.ts"
+    ]
+}
